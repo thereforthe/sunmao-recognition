@@ -50,7 +50,8 @@ for eng, chi in CN_NAMES.items():
 
 # 4. 网页主界面
 st.title("🪑 中国传统榫卯结构 AI 识别系统")
-st.markdown("#### 研发团队：wmt 组长及团队 | 实时云端版")
+# 此处已更新为正式团队名称：西财大·智木团队
+st.markdown("#### 研发团队：西财大·智木团队 | 实时云端版")
 st.markdown("---")
 
 # 5. 图片上传
